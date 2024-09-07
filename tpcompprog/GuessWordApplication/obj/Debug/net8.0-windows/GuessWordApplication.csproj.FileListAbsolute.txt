@@ -1,0 +1,16 @@
+C:\Users\Arvin\source\repos\GuessWordApplication\GuessWordApplication\obj\Debug\net8.0-windows\GuessWordApplication.Form1.resources
+C:\Users\Arvin\source\repos\GuessWordApplication\GuessWordApplication\obj\Debug\net8.0-windows\GuessWordApplication.csproj.GenerateResource.cache
+C:\Users\Arvin\source\repos\GuessWordApplication\GuessWordApplication\obj\Debug\net8.0-windows\GuessWordApplication.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Arvin\source\repos\GuessWordApplication\GuessWordApplication\obj\Debug\net8.0-windows\GuessWordApplication.AssemblyInfoInputs.cache
+C:\Users\Arvin\source\repos\GuessWordApplication\GuessWordApplication\obj\Debug\net8.0-windows\GuessWordApplication.AssemblyInfo.cs
+C:\Users\Arvin\source\repos\GuessWordApplication\GuessWordApplication\obj\Debug\net8.0-windows\GuessWordApplication.csproj.CoreCompileInputs.cache
+C:\Users\Arvin\source\repos\GuessWordApplication\GuessWordApplication\bin\Debug\net8.0-windows\GuessWordApplication.exe
+C:\Users\Arvin\source\repos\GuessWordApplication\GuessWordApplication\bin\Debug\net8.0-windows\GuessWordApplication.deps.json
+C:\Users\Arvin\source\repos\GuessWordApplication\GuessWordApplication\bin\Debug\net8.0-windows\GuessWordApplication.runtimeconfig.json
+C:\Users\Arvin\source\repos\GuessWordApplication\GuessWordApplication\bin\Debug\net8.0-windows\GuessWordApplication.dll
+C:\Users\Arvin\source\repos\GuessWordApplication\GuessWordApplication\bin\Debug\net8.0-windows\GuessWordApplication.pdb
+C:\Users\Arvin\source\repos\GuessWordApplication\GuessWordApplication\obj\Debug\net8.0-windows\GuessWordApplication.dll
+C:\Users\Arvin\source\repos\GuessWordApplication\GuessWordApplication\obj\Debug\net8.0-windows\refint\GuessWordApplication.dll
+C:\Users\Arvin\source\repos\GuessWordApplication\GuessWordApplication\obj\Debug\net8.0-windows\GuessWordApplication.pdb
+C:\Users\Arvin\source\repos\GuessWordApplication\GuessWordApplication\obj\Debug\net8.0-windows\GuessWordApplication.genruntimeconfig.cache
+C:\Users\Arvin\source\repos\GuessWordApplication\GuessWordApplication\obj\Debug\net8.0-windows\ref\GuessWordApplication.dll
